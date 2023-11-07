@@ -1,0 +1,1 @@
+# Soma-do-intervalo-da-rvore-Bin-ria-de-Busca
